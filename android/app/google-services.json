@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667998787835",
+    "project_id": "alaa-3f713",
+    "storage_bucket": "alaa-3f713.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667998787835:android:6923feeb911a95188f385e",
+        "android_client_info": {
+          "package_name": "com.example.alaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKa7Q2Iphvdh30XLLDPeTMRfpf-2EsQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667998787835:android:4f1021568da02a088f385e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKa7Q2Iphvdh30XLLDPeTMRfpf-2EsQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
